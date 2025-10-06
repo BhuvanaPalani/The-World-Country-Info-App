@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Module 202 - Lecture</string>
+    <string name="countries">Countries</string>
+    <string name="country_name">Country name</string>
+    <string name="back">Back</string>
+    <string name="flag">Flag</string>
+    <string name="main_details">Main Details</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="capital">Capital</string>
+    <string name="calling_code">Calling code</string>
+    <string name="top_level_domain">Top Level Domain</string>
+    <string name="globe">Globe</string>
+    <string name="the_world">The World</string>
+    <string name="all_countries_at_n_your_fingertips">All countries at \n your fingertips</string>
+    <string name="get_started">Get Started</string>
+</resources>
